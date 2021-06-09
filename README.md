@@ -1,1 +1,1 @@
-# zombie-shoot
+# Zombie-Game
